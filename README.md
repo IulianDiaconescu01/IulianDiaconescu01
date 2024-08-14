@@ -10,7 +10,7 @@ I am a telecommunications student with a passion for technology and innovation. 
 
 * 🌍  I'm based in Catalonia, Spain
 * ✉️  You can contact me at [iuliandiaconescu01@gmail.com](mailto:iuliandiaconescu01@gmail.com)
-* 🧠  I'm learning I’m currently learning advanced network protocols and exploring AI applications in telecommunications.
+* 🧠  I’m currently learning advanced network protocols and exploring AI applications in telecommunications.
 * 🤝  I'm open to collaborating on projects related to network optimization, AI-driven telecom solutions, and innovative communication technologies.
 * ⚡  I'm passionate about integrating cutting-edge technologies to solve real-world communication challenges
 
